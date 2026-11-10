@@ -4,7 +4,7 @@
 
 <br/>
 
-### ୨୧ arin's digital space
+### ୨୧ arin's digital space ⊹ ࣪ ˖
 
 **Information Systems Student · Design Enthusiast · Tech Explorer**
 
@@ -19,7 +19,7 @@
 
 ---
 
-### ♡ about me
+### ♡ ┆ about me
 
 Hi! I'm **Arin**, an Information Systems undergraduate student
 with a background in Visual Communication Design.
@@ -34,7 +34,7 @@ and creative problem-solving.
 
 ---
 
-### ⌘ tech & tools
+### ⌘ ┆ tech & tools
 
 **Currently exploring**
 
@@ -52,7 +52,7 @@ and creative problem-solving.
 
 ---
 
-### ✿ things i've been working on
+### ✿ ┆ things i've been working on
 
 | Project | Description |
 |:--|:--|
@@ -64,24 +64,20 @@ and creative problem-solving.
 
 
 
-### ♡ github stats corner
+### 𐙚 ┆ github stats corner
 
-<div align="center">  
-  
-<sub>୨୧ a little collection of my progress</sub>  
+<div align="center">
 
+<sub>୨୧ tracking progress, one commit at a time</sub>
 
-<br/>
-
-<img
-  src="https://ghstats.dev/api/card?username=atharinasarwahita&bg=FFF8FA&text=390D18&title_color=641B2E&icon_color=A34D63&border_color=E8C9D0&border_radius=14&size=compact&show_icons=true"
-  width="800"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharinasarwahita&theme=rose_pine&hide_border=true&background=390D18&ring=A34D63&fire=E8C9D0&currStreakLabel=E8C9D0" width="100%" />
 
 <br/><br/>
 
-♡ ───────────── ୨୧ ───────────── ♡
+───────────── ୨୧ ───────────── 
 
 *little steps still count.*
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=390D18&height=120&section=footer" width="100%" />
 </div>
