@@ -29,8 +29,7 @@ and creative problem-solving.
 
 - 🎓 Currently studying Information Systems.
 - 🎨 Interested in graphic design and UI/UX.
-- 💻 Exploring programming, databases, and computer networks.
-- 🌱 Currently learning and building my technical foundation.
+- 💻 Exploring programming and databases.
 - ✨ Good design meets good technology.
 
 ---
